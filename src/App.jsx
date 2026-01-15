@@ -323,7 +323,7 @@ const Portfolio = () => {
                    <div className="absolute top-0 right-0 w-40 h-40 bg-white/5 rounded-full -mr-10 -mt-10 blur-3xl animate-pulse"></div>
                    
                    <div className="relative z-10">
-                      <div className="text-yellow-400 text-sm font-bold tracking-widest uppercase mb-2">Professional License</div>
+                      <div className="text-yellow-400 text-sm font-bold tracking-widest  mb-2">Thai Professional Engineering License</div>
                       <div className="text-2xl font-black leading-tight mb-6">{RESUME_DATA.license.title}</div>
                       <div className="inline-block bg-white/10 px-6 py-3 rounded-xl text-yellow-300 font-mono text-3xl font-bold tracking-widest border border-white/10 shadow-lg backdrop-blur-sm">
                           {RESUME_DATA.license.id}
